@@ -1,0 +1,8 @@
+{
+  "trap_name": "flash_sandwich_trap",
+  "parameters": {
+    "min_price_impact": 5.0,
+    "min_flash_loan_size": 100000,
+    "max_blocks_between": 1
+  }
+}
